@@ -1,5 +1,5 @@
 ![](https://github.com/soldmyclothesforanewsupra/soldmyclothesforanewsupra/blob/main/Images/Banner.png?raw=true)
-# *＼(^-\^)／* soldmyclothesforanewsupra
+# *＼(^-\^)／*
 ### <(' . '<) who am i
 ⯁ i'm soldmyclothesforanewsupra, and i like to hyperfixate on luau optimization and project organization. 
 ⯁ i am looking to dabble in more languages (ts, rs, c++) and i love to learn.
